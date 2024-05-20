@@ -1,0 +1,132 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/coronary-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule3:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-myocard---primary.py
+inputModule4:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-hemorrhage---primary.py
+inputModule5:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-unspecif---primary.py
+inputModule6:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-cereb---primary.py
+inputModule7:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-arrest---primary.py
+inputModule8:
+  class: File
+  path: python/inferolateral-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule9:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-angina---primary.py
+inputModule10:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-ruptur---primary.py
+inputModule11:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-basal---primary.py
+inputModule12:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-middle---primary.py
+inputModule13:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-capsule---primary.py
+inputModule14:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-infarctn---primary.py
+inputModule15:
+  class: File
+  path: python/intraventricular-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule16:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-precerebr---primary.py
+inputModule17:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-cardiac---primary.py
+inputModule18:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-localized---primary.py
+inputModule19:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-infarct---primary.py
+inputModule20:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-inferoposterior---primary.py
+inputModule21:
+  class: File
+  path: python/bilateral-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule22:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-lacunar---primary.py
+inputModule23:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-chordae---primary.py
+inputModule24:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-occlusn---primary.py
+inputModule25:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-elevation---primary.py
+inputModule26:
+  class: File
+  path: python/nonpyogenic-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule27:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-generalised---primary.py
+inputModule28:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-brain---primary.py
+inputModule29:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-bifurcation---primary.py
+inputModule30:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-occlus---primary.py
+inputModule31:
+  class: File
+  path: python/septal-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule32:
+  class: File
+  path: python/anterolateral-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule33:
+  class: File
+  path: python/cortical-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule34:
+  class: File
+  path: python/right-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule35:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-aborted---primary.py
+inputModule36:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-asystole---primary.py
+inputModule37:
+  class: File
+  path: python/subendocardial-cardiovascular-disease-psoriasis-association-study-with-cvd---primary.py
+inputModule38:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-muscle---primary.py
+inputModule39:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-sided---primary.py
+inputModule40:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-steno---primary.py
+inputModule41:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-heart---primary.py
+inputModule42:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-defect---primary.py
+inputModule43:
+  class: File
+  path: python/cardiovascular-disease-psoriasis-association-study-with-cvd-complication---primary.py
+inputModule44:
+  class: File
+  path: python/output-cases.py
